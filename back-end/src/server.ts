@@ -12,6 +12,10 @@ app.get('/anuncios', (request, response) => {
     { id: 1, name: 'Anuncio 2'},
 
     { id: 1, name: 'Anuncio 3'},
+
+    { id: 1, name: 'Anuncio 4'},
+
+    { id: 1, name: 'Anuncio 5' },
     
     ])
 }) 
